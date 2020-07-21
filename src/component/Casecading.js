@@ -15,7 +15,7 @@ const country = [
     },
     {
         id:3,
-        name:'India ',
+        name:'India',
         cities: ['Mumbai','Delhi','Kolkata','Chennai']
        
     }

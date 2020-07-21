@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Casecading from './component/Casecading';
 import Footer from './component/Footer';
